@@ -1,0 +1,33 @@
+.sctnsix-heading{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+}
+.sctnfsix-tagline{
+    text-align: center;
+    color: rgba(130, 143, 153, 1);
+    margin-top: 1vw;
+}
+.sectn6-from{
+    margin-top: 3vw;
+}
+.sectn6-img{
+    width: 100%;
+    margin-left: -3vw;
+}
+.sctnsix-maindiv{
+    margin-top: 6vw;
+}
+.sctn6-button{
+    background: #1EA59A;
+    border-radius: 4px;
+    text-decoration: none;
+    border: none;
+    font-size: 15px;
+    width: 123px;
+    height: 36px;
+    color: #fff;
+}
+.sctn6-form-con{
+    margin-top: 1vw;
+}
