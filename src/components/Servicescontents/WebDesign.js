@@ -37,7 +37,7 @@ function WebDesign() {
                 </Col>
 
             </Row>
-            <SectionSeven />
+            
 
         </div>
     )

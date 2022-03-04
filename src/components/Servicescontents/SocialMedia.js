@@ -43,7 +43,7 @@ function SocialMedia() {
                 </Col>
 
             </Row>
-            <SectionSeven />
+            
         </div>
     )
 }

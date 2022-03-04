@@ -38,7 +38,7 @@ function Webdevelopment() {
                 </Col>
 
             </Row>
-            <SectionSeven />
+           
         </div>
     )
 }

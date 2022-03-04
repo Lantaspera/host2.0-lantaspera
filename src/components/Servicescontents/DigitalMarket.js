@@ -52,7 +52,7 @@ function DigitalMarket() {
                 </Col>
 
             </Row>
-            <SectionSeven />
+
         </div>
     )
 }

@@ -36,7 +36,7 @@ function AppDevelopment() {
                 </Col>
 
             </Row>
-            <SectionSeven />
+            
         </div>
     )
 }

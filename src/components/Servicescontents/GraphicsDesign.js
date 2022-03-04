@@ -71,7 +71,7 @@ function GraphicsDesign() {
                 </Col>
             </Row>
 
-            <SectionSeven />
+            
 
 
 

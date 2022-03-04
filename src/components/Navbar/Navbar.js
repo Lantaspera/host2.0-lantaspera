@@ -58,7 +58,7 @@ function NavbarTab() {
           <Nav className='nav_link_section' >
 
 
-            <NavLink to="/home" className="home" activeClassName="active">
+            <NavLink to="/" className="home" >
               <li>Home</li>
             </NavLink >
             <NavLink to="/services" className="services" activeClassName="active">
