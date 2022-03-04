@@ -35,7 +35,7 @@ const App = () => {
   }, []);
   return (
 
-    <Router>
+    <Router >
       <div className='App'>
         <NavbarTab />
 
