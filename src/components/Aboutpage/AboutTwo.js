@@ -63,11 +63,7 @@ function AboutTwo() {
 
 
                 </Row>
-                <Row >
-                    <Col className="hai">
-                    </Col>
-                </Row>
-
+               
             </Row>
         </Row>
 

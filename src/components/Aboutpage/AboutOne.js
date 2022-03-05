@@ -15,7 +15,7 @@ function AboutOne() {
         <Container className="abt-two-mdiv">
 
             <Row xs={1} md={2}>
-                <Col className="abt1-first-img" data-aos="fade-right">< Image src="https://res.cloudinary.com/lanta/image/upload/v1638173324/image_5_jowfs4.png" fluid /></Col>
+                <Col className="abt1-first-img" data-aos="fade-right">< Image src="https://res.cloudinary.com/lanta/image/upload/v1638173324/image_5_jowfs4.png" /></Col>
 
                 <Col className="abt1-sec-mdiv" data-aos="fade-left"  >
 
